@@ -1,0 +1,3 @@
+Create a simple streamlit interface
+Grab data from website we want to scrape, the library that would help with that is called Selenium
+We would connect scrape.py using the scrape_website() function to aiwebscraper.py which contains the 'frontending'
